@@ -1,2 +1,2 @@
 # website
-i am the editor.
+i am the editor
